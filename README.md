@@ -1,3 +1,4 @@
+![Tests Automáticos para la Versión de Prueba](https://github.com/mongrelmeister/pymath/actions/workflows/python-app.yml/badge.svg)
 # Plantilla para desarrollo guiado por pruebas en Python
 
 Proyecto base para crear aplicaciones siguiendo la metodología TDD
