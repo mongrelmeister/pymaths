@@ -1,6 +1,4 @@
 def rot13_cipher(text):
-    result = ""
-    result_m = ""
     resultado = ""
     # transverse the plain text
     for i in range(len(text)):
